@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kuripudimanikanta6-coder.github.io/project1/",
+  "homepage": "https://kuripudimanikanta6-coder.github.io/project1/d",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
