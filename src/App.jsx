@@ -14,7 +14,7 @@ export default class App extends Component {
   }
   render() {
     const { data } = this.state;
-    const BASEURL = import.meta.env.BASE_URL;
+    const BASEURL = import.meta.env.BASE_URL;aa
     return (
       <div className='app'>
                 <div className='profile'>
